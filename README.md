@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 这是书籍《深度学习框架PyTorch：入门与实践》的对应代码，但是也可以作为一个独立的PyTorch入门指南和教程。
 
 ## 更新说明
@@ -93,3 +94,7 @@ Happy Coding!
 
 - [京东购买链接](https://search.jd.com/Search?keyword=pytorch%20入门与实践&enc=utf-8&wq=pytorch%20入门与实践&pvid=8b0d91d7108845ad8cbaf596326f3eb3)
 - [当当购买链接](http://search.dangdang.com/?key=pytorch%20%C8%EB%C3%C5%D3%EB%CA%B5%BC%F9&act=input)
+=======
+# study
+日常学习资料
+>>>>>>> 69c9ce97ad2c347dee693ead0aea4e629b59cce5
